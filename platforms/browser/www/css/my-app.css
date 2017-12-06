@@ -1,0 +1,37 @@
+.button {
+    background-color: pink;
+    border: none;
+    color: black;
+    padding: 30px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 15px 15px;
+    cursor: pointer;
+}
+
+
+input{
+	font-size: 90px;
+}
+
+.text{
+	font-size: 300px;
+	font-family: 'arial';
+}
+
+ul li{
+	font-size: 5px;
+	color:red;
+}
+
+.imCustomClass{
+	text-decoration: underline;
+	color:yellow;
+
+}
+
+#audio{
+	display: none;
+}
